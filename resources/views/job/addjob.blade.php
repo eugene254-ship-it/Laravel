@@ -227,7 +227,7 @@
 							</div>
 						</div>
 					</div>
-                </div>
+                </div>Commit1
 				<!-- /Page Content -->
 				
 				<!-- Add Job Modal -->
